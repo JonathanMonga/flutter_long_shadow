@@ -1,6 +1,10 @@
-# long_shadow_animation
+# Long shadow effet with animation
 
-A new Flutter project.
+Flutter project inspired by https://codepen.io/mladen___/pen/gbvqBo
+
+That is a result
+
+<img src='flutter_long_shadow.jpg' width='350'>
 
 ## Getting Started
 
